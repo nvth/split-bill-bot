@@ -1,6 +1,7 @@
 # Telegram VietQR Bot (Python)
 
 Author: nvth
+
 Teammate: Agent GPT-5.2-Codex
 
 Bot Telegram tao VietQR (NAPAS), quan ly tai khoan va gui QR vao group.
